@@ -1,6 +1,6 @@
 # risk-it-html
 
-HTML 5 Version of risk it
+<p>HTML 5 Version of my game "Risk It"</p>
 
-You can play it here 
+<p>You can play it here </p>
 https://gamesbykevin.github.io/risk-it-html/
